@@ -69,4 +69,4 @@ Each table is linked via appropriate foreign keys to maintain relational integri
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/student-management-system.git 
+   git clone https://github.com/nootanchatur/student-management-system.git 
